@@ -42,7 +42,8 @@
 		"ms-kubernetes-tools.vscode-kubernetes-tools",
 		"ms-kubernetes-tools.vscode-aks-tools",
 		"inercia.vscode-k3d",
-		"ms-vscode.azurecli"
+		"ms-vscode.azurecli",
+		"hashicorp.terraform"
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
