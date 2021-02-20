@@ -40,7 +40,8 @@
 		"visualstudioexptteam.vscodeintellicode",
 		"ms-azuretools.vscode-docker",
 		"ms-kubernetes-tools.vscode-kubernetes-tools",
-		"inercia.vscode-k3d"
+		"inercia.vscode-k3d",
+		"ms-vscode.azurecli"
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
