@@ -26,3 +26,8 @@ Extensions
 k3d cluster create mycluster \
     && k3d kubeconfig merge mycluster --kubeconfig-switch-context
 ```
+
+## Grab some AKS samples!
+- https://github.com/stvansolano/azure-voting-app-redis
+- Deploy an AKS Cluster - [Microsoft Docs](https://docs.microsoft.com/en-us/azure/aks/kubernetes-walkthrough/?&WT.mc_id=DT-MVP-5002082)
+- AKS Workshop - [Microsoft Learn - https://docs.microsoft.com/en-us/learn/modules/aks-workshop](https://docs.microsoft.com/en-us/learn/modules/aks-workshop/?&WT.mc_id=DT-MVP-5002082)
